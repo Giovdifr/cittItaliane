@@ -1,0 +1,74 @@
+[
+	{
+		"istat": "1001",
+		"comune": "Agliè",
+		"lng": "7.7686",
+		"lat": "45.36343304"
+	},
+	{
+		"istat": "1002",
+		"comune": "Airasca",
+		"lng": "7.48443104",
+		"lat": "44.91688598"
+	},
+	{
+		"istat": "1003",
+		"comune": "Ala di Stura",
+		"lng": "7.30434392",
+		"lat": "45.31511014"
+	},
+	{
+		"istat": "1004",
+		"comune": "Albiano d'Ivrea",
+		"lng": "7.94914491",
+		"lat": "45.43389336"
+	},
+	{
+		"istat": "1005",
+		"comune": "Alice Superiore",
+		"lng": "7.77701858",
+		"lat": "45.4600936"
+	},
+	{
+		"istat": "1006",
+		"comune": "Almese",
+		"lng": "7.39518194",
+		"lat": "45.11766321"
+	},
+	{
+		"istat": "1007",
+		"comune": "Alpette",
+		"lng": "7.57859732",
+		"lat": "45.40998223"
+	},
+	{
+		"istat": "1008",
+		"comune": "Alpignano",
+		"lng": "7.52426733",
+		"lat": "45.09446973"
+	},
+	{
+		"istat": "1009",
+		"comune": "Andezeno",
+		"lng": "7.86994864",
+		"lat": "45.03586095"
+	},
+	{
+		"istat": "1010",
+		"comune": "Andrate",
+		"lng": "7.87383937",
+		"lat": "45.52837479"
+	},
+	{
+		"istat": "1011",
+		"comune": "Angrogna",
+		"lng": "7.22429215",
+		"lat": "44.84344991"
+	},
+	{
+		"istat": "1012",
+		"comune": "Arignano",
+		"lng": "7.90244635",
+		"lat": "45.04402899"
+	}
+]
