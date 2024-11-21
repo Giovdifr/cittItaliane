@@ -4,6 +4,78 @@
 		"comune": "Agliè",
 		"lng": "7.7686",
 		"lat": "45.36343304"
+	},
+		{
+		"istat": "1024",
+		"comune": "Beinasco",
+		"lng": "7.57915804",
+		"lat": "45.02207899"
+	},
+	{
+		"istat": "1025",
+		"comune": "Bibiana",
+		"lng": "7.28978596",
+		"lat": "44.79758015"
+	},
+	{
+		"istat": "1026",
+		"comune": "Bobbio Pellice",
+		"lng": "7.11790449",
+		"lat": "44.80770617"
+	},
+	{
+		"istat": "1027",
+		"comune": "Bollengo",
+		"lng": "7.94534881",
+		"lat": "45.4733572"
+	},
+	{
+		"istat": "1028",
+		"comune": "Borgaro Torinese",
+		"lng": "7.65789441",
+		"lat": "45.15198241"
+	},
+	{
+		"istat": "1029",
+		"comune": "Borgiallo",
+		"lng": "7.66773369",
+		"lat": "45.4168132"
+	},
+	{
+		"istat": "1030",
+		"comune": "Borgofranco d'Ivrea",
+		"lng": "7.85852209",
+		"lat": "45.51300686"
+	},
+	{
+		"istat": "1031",
+		"comune": "Borgomasino",
+		"lng": "7.98879962",
+		"lat": "45.36155134"
+	},
+	{
+		"istat": "1032",
+		"comune": "Borgone Susa",
+		"lng": "7.24121397",
+		"lat": "45.12313936"
+	},
+	{
+		"istat": "1033",
+		"comune": "Bosconero",
+		"lng": "7.76506984",
+		"lat": "45.26856393"
+	},
+	{
+		"istat": "1034",
+		"comune": "Brandizzo",
+		"lng": "7.84147562",
+		"lat": "45.17765247"
+	},
+	{
+		"istat": "1035",
+		"comune": "Bricherasio",
+		"lng": "7.30288754",
+		"lat": "44.82558164"
 	}
 	
 	
