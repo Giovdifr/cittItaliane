@@ -11,13 +11,7 @@
 		"lng": "7.48443104",
 		"lat": "44.91688598"
 	},
-	{
-		"istat": "1003",
-		"comune": "Ala di Stura",
-		"lng": "7.30434392",
-		"lat": "45.31511014"
-	},
-	{
+        {
 		"istat": "1004",
 		"comune": "Albiano d'Ivrea",
 		"lng": "7.94914491",
@@ -35,12 +29,7 @@
 		"lng": "7.39518194",
 		"lat": "45.11766321"
 	},
-	{
-		"istat": "1007",
-		"comune": "Alpette",
-		"lng": "7.57859732",
-		"lat": "45.40998223"
-	},
+	
 	{
 		"istat": "1008",
 		"comune": "Alpignano",
@@ -59,60 +48,23 @@
 		"lng": "7.87383937",
 		"lat": "45.52837479"
 	},
-	{
-		"istat": "1011",
-		"comune": "Angrogna",
-		"lng": "7.22429215",
-		"lat": "44.84344991"
-	},
-	{
-		"istat": "1012",
-		"comune": "Arignano",
-		"lng": "7.90244635",
-		"lat": "45.04402899"
-	},
-	{
-		"istat": "1013",
-		"comune": "Avigliana",
-		"lng": "7.39632339",
-		"lat": "45.07935742"
-	},
+	
+	
 	{
 		"istat": "1014",
 		"comune": "Azeglio",
 		"lng": "7.9947707",
 		"lat": "45.4248619"
 	},
-	{
-		"istat": "1015",
-		"comune": "Bairo",
-		"lng": "7.75691809",
-		"lat": "45.38624929"
-	},
-	{
-		"istat": "1016",
-		"comune": "Balangero",
-		"lng": "7.51930957",
-		"lat": "45.27003001"
-	},
-	{
-		"istat": "1017",
-		"comune": "Baldissero Canavese",
-		"lng": "7.74444451",
-		"lat": "45.40840358"
-	},
+	
+	
 	{
 		"istat": "1018",
 		"comune": "Baldissero Torinese",
 		"lng": "7.81780767",
 		"lat": "45.06842334"
 	},
-	{
-		"istat": "1019",
-		"comune": "Balme",
-		"lng": "7.21831414",
-		"lat": "45.30229406"
-	},
+	
 	{
 		"istat": "1020",
 		"comune": "Banchette",
@@ -131,12 +83,7 @@
 		"lng": "6.70382393",
 		"lat": "45.07816901"
 	},
-	{
-		"istat": "1023",
-		"comune": "Barone Canavese",
-		"lng": "7.87055626",
-		"lat": "45.32772558"
-	},
+	
 	{
 		"istat": "1024",
 		"comune": "Beinasco",
@@ -161,12 +108,7 @@
 		"lng": "7.94534881",
 		"lat": "45.4733572"
 	},
-	{
-		"istat": "1028",
-		"comune": "Borgaro Torinese",
-		"lng": "7.65789441",
-		"lat": "45.15198241"
-	},
+	
 	{
 		"istat": "1029",
 		"comune": "Borgiallo",
@@ -185,12 +127,7 @@
 		"lng": "7.98879962",
 		"lat": "45.36155134"
 	},
-	{
-		"istat": "1032",
-		"comune": "Borgone Susa",
-		"lng": "7.24121397",
-		"lat": "45.12313936"
-	},
+	
 	{
 		"istat": "1033",
 		"comune": "Bosconero",
@@ -203,12 +140,7 @@
 		"lng": "7.84147562",
 		"lat": "45.17765247"
 	},
-	{
-		"istat": "1035",
-		"comune": "Bricherasio",
-		"lng": "7.30288754",
-		"lat": "44.82558164"
-	},
+	
 	{
 		"istat": "1036",
 		"comune": "Brosso",
@@ -222,34 +154,35 @@
 		"lat": "45.1174193"
 	},
 	{
-		"istat": "1038",
-		"comune": "Bruino",
-		"lng": "7.46769111",
-		"lat": "45.0202325"
+		"istat": "16133",
+		"comune": "Martinengo",
+		"lng": "9.76736896",
+		"lat": "45.57167298"
 	},
 	{
-		"istat": "1039",
-		"comune": "Brusasco",
-		"lng": "8.06009417",
-		"lat": "45.15595512"
+		"istat": "16134",
+		"comune": "Mezzoldo",
+		"lng": "9.66566839",
+		"lat": "46.01220471"
 	},
 	{
-		"istat": "1040",
-		"comune": "Bruzolo",
-		"lng": "7.19397692",
-		"lat": "45.14312487"
+		"istat": "51020",
+		"comune": "Loro Ciuffenna",
+		"lng": "11.63153773",
+		"lat": "43.59331237"
 	},
 	{
-		"istat": "1041",
-		"comune": "Buriasco",
-		"lng": "7.41192286",
-		"lat": "44.87335846"
+		"istat": "51021",
+		"comune": "Lucignano",
+		"lng": "11.74707426",
+		"lat": "43.2754946"
 	},
 	{
-		"istat": "1042",
-		"comune": "Burolo",
-		"lng": "7.93205672",
-		"lat": "45.48411969"
-	}
+		"istat": "95060",
+		"comune": "Sini",
+		"lng": "8.90636308",
+		"lat": "39.75247187"
+	},
+	
 	 
 ]
