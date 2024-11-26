@@ -5,30 +5,6 @@
 		"lng": "7.7686",
 		"lat": "45.36343304"
 	},
-	{
-		"istat": "1002",
-		"comune": "Airasca",
-		"lng": "7.48443104",
-		"lat": "44.91688598"
-	},
-        {
-		"istat": "1004",
-		"comune": "Albiano d'Ivrea",
-		"lng": "7.94914491",
-		"lat": "45.43389336"
-	},
-	{
-		"istat": "1005",
-		"comune": "Alice Superiore",
-		"lng": "7.77701858",
-		"lat": "45.4600936"
-	},
-	{
-		"istat": "1006",
-		"comune": "Almese",
-		"lng": "7.39518194",
-		"lat": "45.11766321"
-	},
 	
 	{
 		"istat": "1008",
@@ -42,20 +18,6 @@
 		"lng": "7.86994864",
 		"lat": "45.03586095"
 	},
-	{
-		"istat": "1010",
-		"comune": "Andrate",
-		"lng": "7.87383937",
-		"lat": "45.52837479"
-	},
-	
-	
-	{
-		"istat": "1014",
-		"comune": "Azeglio",
-		"lng": "7.9947707",
-		"lat": "45.4248619"
-	},
 	
 	
 	{
@@ -66,42 +28,12 @@
 	},
 	
 	{
-		"istat": "1020",
-		"comune": "Banchette",
-		"lng": "7.85656384",
-		"lat": "45.4608501"
-	},
-	{
-		"istat": "1021",
-		"comune": "Barbania",
-		"lng": "7.63051093",
-		"lat": "45.2905002"
-	},
-	{
-		"istat": "1022",
-		"comune": "Bardonecchia",
-		"lng": "6.70382393",
-		"lat": "45.07816901"
-	},
-	
-	{
 		"istat": "1024",
 		"comune": "Beinasco",
 		"lng": "7.57915804",
 		"lat": "45.02207899"
 	},
-	{
-		"istat": "1025",
-		"comune": "Bibiana",
-		"lng": "7.28978596",
-		"lat": "44.79758015"
-	},
-	{
-		"istat": "1026",
-		"comune": "Bobbio Pellice",
-		"lng": "7.11790449",
-		"lat": "44.80770617"
-	},
+
 	{
 		"istat": "1027",
 		"comune": "Bollengo",
@@ -110,49 +42,14 @@
 	},
 	
 	{
-		"istat": "1029",
-		"comune": "Borgiallo",
-		"lng": "7.66773369",
-		"lat": "45.4168132"
-	},
-	{
-		"istat": "1030",
-		"comune": "Borgofranco d'Ivrea",
-		"lng": "7.85852209",
-		"lat": "45.51300686"
-	},
-	{
 		"istat": "1031",
 		"comune": "Borgomasino",
 		"lng": "7.98879962",
 		"lat": "45.36155134"
 	},
 	
-	{
-		"istat": "1033",
-		"comune": "Bosconero",
-		"lng": "7.76506984",
-		"lat": "45.26856393"
-	},
-	{
-		"istat": "1034",
-		"comune": "Brandizzo",
-		"lng": "7.84147562",
-		"lat": "45.17765247"
-	},
 	
-	{
-		"istat": "1036",
-		"comune": "Brosso",
-		"lng": "7.80333443",
-		"lat": "45.49276005"
-	},
-	{
-		"istat": "1037",
-		"comune": "Brozolo",
-		"lng": "8.07127843",
-		"lat": "45.1174193"
-	},
+	
 	{
 		"istat": "16133",
 		"comune": "Martinengo",
